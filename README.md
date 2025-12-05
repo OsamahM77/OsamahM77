@@ -12,10 +12,10 @@
 📜 Microsoft Data Analysis Learning Path  
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OsamahM77&style=flat&color=orange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-osamah-mohammed-933638333)
-
 [![Telegram Badge](https://img.shields.io/badge/OsamahM77-grey?style=flat&logo=telegram)](https://t.me/samahM777)<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=OsamahM77&style=flat&color=orange)
 
 <hr></hr>
 

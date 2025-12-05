@@ -2,6 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 <p>
 # 👋 Hello! I'm Osamah Mohammed  
 🎓 Information Technology Graduate – Full Stack Developer  
@@ -11,15 +12,7 @@
 📜 Microsoft Data Analysis Learning Path  
 </p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
-
-<details>
-<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=OsamahM77&style=flat&color=orange)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-osamah-mohammed-933638333)
 [![Telegram Badge](https://img.shields.io/badge/OsamahM77-grey?style=flat&logo=telegram)](https://t.me/samahM777)<br>
 
 <hr></hr>

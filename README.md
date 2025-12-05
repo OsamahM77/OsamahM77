@@ -45,7 +45,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on Telegram: **[@samahM777](https://t.me/samahM777)**<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/OsamahM77">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">

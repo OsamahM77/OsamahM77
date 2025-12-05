@@ -1,24 +1,20 @@
 <div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/OsamahM77" alt="Hello Coders" width="60%"/> 
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/OsamahM77" alt="Workspace" width="40%"/>
-<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/OsamahM77" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/OsamahM77" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong>
-<summary> Busy coding & Vibing to : </summary>
-</strong></p>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=OsamahM77&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OsamahM77&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/spxd007)
-<br>
-📩 Email: **osamaalgody2016@gmail.com**
-<br>
-🔗 LinkedIn: [Eng. Osamah Mohammed](https://linkedin.com/in/eng-osamah-mohammed-933638333)
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOsamahM77&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+📩 Email: **osamaalgody2016@gmail.com**<br>
+🔗 LinkedIn: [Eng. Osamah Mohammed](https://linkedin.com/in/eng-osamah-mohammed-933638333)<br>
 </div>
 
 <hr></hr>
@@ -39,8 +35,8 @@
 
 ```dart
 // tools_I_use organized
-class About extends Me {
-  const myTools = {
+class About extends Me { 
+  const myTools = {  
     "ProgrammingLanguages" : { "PHP", "C#", "Vue.js", "Javascript", "Java", "C++" },
     "OtherLanguages" : { "HTML", "CSS", "Markdown" },
     "Database" : { "MySQL", "SQL Server" },

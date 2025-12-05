@@ -20,6 +20,7 @@
 <hr></hr>
 <div align="left">
 ### 🛠️ Technology Stack
+  
 **Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -36,15 +37,22 @@
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**.
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+<p>
+  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> 
+  &nbsp; I’m currently diving deep into 
+  <b><span style="color:#FF6F61;">Artificial Intelligence</span></b> 
+  &amp; 
+  <b><span style="color:#6A5ACD;">Data Analysis</span></b>.
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+</p>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **PC building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on Telegram: **[@samahM777](https://t.me/samahM777)**<br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+<ul>
+  <li>🐧 I enjoy exploring <b><span style="color:#228B22;">GNU/Linux</span></b> systems.</li>
+  <li>💡 Ask me about <b><span style="color:#FF8C00;">AI</span></b>, <b><span style="color:#FF1493;">Data Analysis</span></b>, PC building, Movies, or anything.</li>
+  <li>⚡ Fun fact: Banging your head against a wall for one hour burns <b>150 calories</b> 😅.</li>
+</ul>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/OsamahM77">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">

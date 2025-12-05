@@ -20,7 +20,7 @@
 <hr></hr>
 
 ### 🛠️ Technology Stack
-<div align="center">
+<div align="left">
   
 **Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
